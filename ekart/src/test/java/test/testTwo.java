@@ -6,6 +6,8 @@ public class testTwo {
 	@Test
 	public void secondTest() {
 		System.out.println("second");
+		System.out.println("second");
+
 	}
 
 }
