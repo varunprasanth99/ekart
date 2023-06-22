@@ -7,6 +7,7 @@ public class testTwo {
 	public void secondTest() {
 		System.out.println("second");
 		System.out.println("second");
+		System.out.println("second");
 
 	}
 
